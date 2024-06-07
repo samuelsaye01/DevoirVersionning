@@ -15,3 +15,9 @@ Commit des changements
 git commit -m "premier commit" 3) Gestion des conflits
 Retour sur la branch main
 git checkout main
+bascule sur la branch feature
+git checkout feature
+envoie des modifications
+git add . : pour ajouter les fichiers
+git push : pour envoyer les fichiers sur git
+git checkout main : pour retourner sur la branch principale
