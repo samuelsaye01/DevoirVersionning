@@ -1,5 +1,5 @@
 1. clone du dépôt
-   git clone https://github.com/samuelsaye01/Devoir_Version.git
+   git clone https://github.com/samuelsaye01/DevoirVersionning.git
 
 -configuration de l'identité Git avec le nom et l'email
 git config --global user.name "samuel"
