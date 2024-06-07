@@ -17,7 +17,14 @@ Retour sur la branch main
 git checkout main
 bascule sur la branch feature
 git checkout feature
-envoie des modifications
+Envoie des modifications
 git add . : pour ajouter les fichiers
 git push : pour envoyer les fichiers sur git
 git checkout main : pour retourner sur la branch principale
+git checkout feature : pour basculer vers la branche feature
+git push : pour envoyer les modifications sur le remote de Git
+git merge feature : pour fusionner la branche main avec la branche feature
+
+Pour resoudre le conflit, j'ai utilisé les commandes :
+git rebase feature
+git rebase --continue
